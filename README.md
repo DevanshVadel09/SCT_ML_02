@@ -1,6 +1,6 @@
 # SCT_ML_02
 
-# Mall Customer Spending Analysis
+# Customer_segmentation_Model
 
 ## Overview
 
