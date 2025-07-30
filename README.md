@@ -139,3 +139,8 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ---
 
 *This project demonstrates the application of data science techniques in retail analytics and customer behavior analysis.*
+
+## Data Set Link
+```
+https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+```
